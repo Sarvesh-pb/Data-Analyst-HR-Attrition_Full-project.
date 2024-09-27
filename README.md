@@ -1,6 +1,6 @@
 Project Overview
 
-This project focuses on analyzing employee attrition in an organization to understand the factors that influence employee turnover. By identifying key patterns and trends, we can provide actionable insights to reduce attrition rates and improve employee retention strategies.
+This project focuses on analyzing employee attrition in an organization to understand the factors that influence employee turnover. By identifying key patterns and trends, I provided actionable insights to reduce attrition rates and improve employee retention strategies.
 
 Dataset
 In Form: Two Excel files
